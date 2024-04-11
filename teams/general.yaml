@@ -1,0 +1,21 @@
+# ------------------------------------------------------------------------------
+# General OpenRail teams
+# ------------------------------------------------------------------------------
+Technical Committee:
+  maintainer:
+    - cornelius
+  member:
+    - Keller-Peter
+    - loic-hamelin
+  repos:
+    technical-committee: push
+
+OpenRail Team:
+  member:
+    - cornelius
+    - Keller-Peter
+    - loic-hamelin
+    - MahaliaStephan
+    - mxmehl
+    - SimonClavier
+    - vlasceanuic
