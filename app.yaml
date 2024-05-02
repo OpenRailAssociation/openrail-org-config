@@ -3,4 +3,5 @@
 # ------------------------------------------------------------------------------
 
 # Personal Oauth access token with required scopes
+# The current token, stored as repository secret, is owned by @mxmehl and will expire on 2025-05-02
 github_token: __GITHUB_TOKEN__
