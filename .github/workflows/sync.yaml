@@ -1,0 +1,27 @@
+name: Synchronise organization settings
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  sync-settings:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install github-org-manager
+        run: pip install github-org-manager
+      - name: Display information about github-org-manager
+        run: gh-org-mgr --version
+      # Only effectively sync on main branch
+      - name: Configure application, add login credentials
+        run: sed -i "s|__GITHUB_TOKEN__|${{ secrets.GTHB_TOKEN }}|" app.yaml
+      - name: Synchronise settings with github-org-manager
+        if: github.ref == 'refs/heads/main'
+        run: gh-org-mgr -c .
