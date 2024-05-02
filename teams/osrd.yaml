@@ -103,6 +103,8 @@ OSRD-Front:
     - Math-R
     - nicolaswurtz
     - SharglutDev
+  repos:
+    osrd-ui: maintain
 
 OSRD-Tests:
   parent: OSRD Maintainers
