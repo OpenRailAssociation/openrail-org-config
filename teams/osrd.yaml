@@ -3,41 +3,43 @@
 # ------------------------------------------------------------------------------
 OSRD:
   maintainer:
-    - bloussou
     - ElysaSrc
+    - bloussou
+    - clarani
     - flomonster
     - loic-hamelin
-    - nicolaswurtz
   member:
-    - achrafmohye
     - Akctarus
-    - anisometropie
-    - bougue-pe
     - Caracol3
-    - cassandrafestoc
     - Castavo
-    - celine-sncf
     - ConstanceDragibus
     - El-Youssef
-    - estia-m
-    - hamz2a
-    - jacomyal
-    - kmer2016
-    - louisgreiner
-    - maelysLeratRosso
-    - manalzidani
     - Maymanaf
     - Morgane-SJK
     - RomainValls
     - SarahBellaha
     - SharglutDev
-    - sim51
     - SimonPierreED
-    - thibautsailly
     - Tristramg
     - Uriel-Sautron
     - Wadjetz
     - Yohh
+    - achrafmohye
+    - anisometropie
+    - bougue-pe
+    - cassandrafestoc
+    - celine-sncf
+    - emersion
+    - estia-m
+    - hamz2a
+    - jacomyal
+    - julespeignier
+    - kmer2016
+    - louisgreiner
+    - maelysLeratRosso
+    - manalzidani
+    - sim51
+    - thibautsailly
   repos:
     osrd: push
     osrd-chart: push
@@ -52,7 +54,7 @@ OSRD-Admins:
     - flomonster
   member:
     - bloussou
-    - nicolaswurtz
+    - clarani
   repos:
     osrd: admin
     osrd-chart: admin
@@ -68,9 +70,9 @@ OSRD-Maintainers:
 OSRD-DevOps:
   parent: OSRD Maintainers
   maintainer:
-    - bloussou
     - ElysaSrc
     - Khoyo
+    - bloussou
     - multun
     - younesschrifi
   repos:
@@ -83,26 +85,25 @@ OSRD-DevOps:
 OSRD-Core:
   parent: OSRD Maintainers
   maintainer:
-    - eckter
     - Erashin
     - Khoyo
+    - eckter
     - multun
 
 OSRD-Editoast:
   parent: OSRD Maintainers
   maintainer:
-    - woshilapin
-    - flomonster
     - Tguisnet
+    - flomonster
     - leovalais
+    - woshilapin
 
 OSRD-Front:
   parent: OSRD Maintainers
   maintainer:
-    - clarani
     - Math-R
-    - nicolaswurtz
     - SharglutDev
+    - clarani
   repos:
     osrd-ui: maintain
 
