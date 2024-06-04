@@ -104,6 +104,7 @@ OSRD-Front:
     - Math-R
     - SharglutDev
     - clarani
+    - kmer2016
   repos:
     osrd-ui: maintain
 
