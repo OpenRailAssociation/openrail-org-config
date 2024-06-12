@@ -9,6 +9,8 @@ Technical Committee:
     - loic-hamelin
   repos:
     technical-committee: push
+    # GitHub Team Management
+    openrail-org-config: push
 
 OpenRail Team:
   member:
@@ -19,3 +21,6 @@ OpenRail Team:
     - mxmehl
     - SimonClavier
     - vlasceanuic
+  repos:
+    # GitHub Team Management
+    openrail-org-config: push

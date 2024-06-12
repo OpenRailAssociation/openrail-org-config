@@ -46,6 +46,8 @@ OSRD:
     osrd-design: push
     osrd-ui: push
     osrd-website: push
+    # GitHub Team Management
+    openrail-org-config: push
 
 OSRD-Admins:
   parent: OSRD
