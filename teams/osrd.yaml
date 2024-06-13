@@ -14,6 +14,7 @@ OSRD:
     - Castavo
     - ConstanceDragibus
     - El-Youssef
+    - JulesPeignier
     - Maymanaf
     - Morgane-SJK
     - RomainValls
@@ -33,12 +34,12 @@ OSRD:
     - estia-m
     - hamz2a
     - jacomyal
-    - JulesPeignier
     - kmer2016
     - louisgreiner
     - maelysLeratRosso
     - manalzidani
     - sim51
+    - theocrsb
     - thibautsailly
   repos:
     osrd: push
