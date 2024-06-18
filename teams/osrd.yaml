@@ -76,7 +76,6 @@ OSRD-DevOps:
     - ElysaSrc
     - Khoyo
     - bloussou
-    - multun
     - younesschrifi
   repos:
     osrd: admin
@@ -91,7 +90,6 @@ OSRD-Core:
     - Erashin
     - Khoyo
     - eckter
-    - multun
 
 OSRD-Editoast:
   parent: OSRD Maintainers
