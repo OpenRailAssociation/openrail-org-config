@@ -71,7 +71,7 @@ OSRD-Maintainers:
     - loic-hamelin
 
 OSRD-DevOps:
-  parent: OSRD Maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - ElysaSrc
     - Khoyo
@@ -85,14 +85,14 @@ OSRD-DevOps:
     osrd-website: admin
 
 OSRD-Core:
-  parent: OSRD Maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - Erashin
     - Khoyo
     - eckter
 
 OSRD-Editoast:
-  parent: OSRD Maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - Tguisnet
     - flomonster
@@ -100,7 +100,7 @@ OSRD-Editoast:
     - woshilapin
 
 OSRD-Front:
-  parent: OSRD Maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - Math-R
     - SharglutDev
@@ -110,14 +110,14 @@ OSRD-Front:
     osrd-ui: maintain
 
 OSRD-Tests:
-  parent: OSRD Maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - bloussou
     - eckter
     - shenriotpro
 
 OSRD-Physics:
-  parent: OSRD Maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - axrolld
     - bgiuliana
