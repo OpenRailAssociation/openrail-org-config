@@ -49,6 +49,8 @@ OSRD:
     osrd-website: push
     # GitHub Team Management
     openrail-org-config: push
+    # DNS Records
+    openrail-dns: push
 
 OSRD-Admins:
   parent: OSRD
