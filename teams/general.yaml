@@ -2,11 +2,17 @@
 # General OpenRail teams
 # ------------------------------------------------------------------------------
 Technical Committee:
-  maintainer:
-    - cornelius
-  member:
-    - Keller-Peter
+  maintainer: # Chair of the TC
     - loic-hamelin
+  member:
+    - aiAdrian # NGE
+    - cornelius # appointed
+    - flomonster # OSRD
+    - frederik-db # DAC-DSS
+    - Keller-Peter # appointed
+    - mxmehl # permanent guest, OpenRail Team
+    - schalbts # RCM
+    - Tristramg # liblrs
   repos:
     technical-committee: push
     # GitHub Team Management
