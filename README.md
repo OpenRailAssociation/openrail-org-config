@@ -12,7 +12,7 @@ Maintainers of OpenRail Association projects can request changes to their teams'
 
 Requirements:
 * For each OpenRail project, a separate file under [`teams`](./teams/) shall be present, so please do not add your teams in another file.
-* Make sure that any team name is unique by preprending your project name. For example, if your project goes by the name "Fantasy Open Source Railway Improver", the file could be called `fosri.yaml`, and a team name could be `FOSRI-Maintainers`.
+* Make sure that any team name is unique by prepending your project name. For example, if your project goes by the name "Fantasy Open Source Railway Improver", the file could be called `fosri.yaml`, and a team name could be `FOSRI-Maintainers`.
 
 After the changes have been approved and merged, the changes will be executed via GitHub actions which takes ~2 minutes.
 
