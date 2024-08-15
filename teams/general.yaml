@@ -1,17 +1,6 @@
 # ------------------------------------------------------------------------------
 # General OpenRail teams
 # ------------------------------------------------------------------------------
-Technical Committee:
-  maintainer:
-    - cornelius
-  member:
-    - Keller-Peter
-    - loic-hamelin
-  repos:
-    technical-committee: push
-    # GitHub Team Management
-    openrail-org-config: push
-
 OpenRail Team:
   member:
     - cornelius

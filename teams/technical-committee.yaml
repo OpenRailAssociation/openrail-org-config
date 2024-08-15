@@ -1,0 +1,28 @@
+# ------------------------------------------------------------------------------
+# OpenRail Technical Committee
+# ------------------------------------------------------------------------------
+Technical Committee:
+  # The members of the TC:
+  # https://github.com/OpenRailAssociation/technical-committee/blob/main/README.md#members
+  # The maintainers (below) will automatically become members of this team as well
+  member:
+    - aiAdrian # NGE
+    - flomonster # OSRD
+    - frederik-db # DAC-DSS
+    - schalbts # RCM
+    - Tristramg # liblrs
+  repos:
+    technical-committee: push
+
+Technical Committee Maintainers:
+  parent: Technical Committee
+  # The maintainers of the TC repo:
+  # https://github.com/OpenRailAssociation/technical-committee/blob/main/MAINTAINERS.md
+  member:
+    - cornelius # appointed
+    - Keller-Peter # appointed
+    - loic-hamelin # appointed
+    - mxmehl # permanent guest, OpenRail Team
+  repos:
+    # GitHub Team Management
+    openrail-org-config: push
