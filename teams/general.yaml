@@ -2,6 +2,7 @@
 # General OpenRail teams
 # ------------------------------------------------------------------------------
 OpenRail Team:
+  description: The members of the OpenRail Team
   member:
     - cornelius
     - Keller-Peter

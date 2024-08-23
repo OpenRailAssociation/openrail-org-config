@@ -2,6 +2,7 @@
 # OSRD - Open Source Railway Designer
 # ------------------------------------------------------------------------------
 OSRD:
+  description: Members of the OSRD project
   maintainer:
     - ElysaSrc
     - bloussou
