@@ -42,6 +42,7 @@ OSRD:
     - theocrsb
     - thibautsailly
     - Sh099078
+    - elise-chin
   repos:
     osrd: push
     osrd-chart: push
