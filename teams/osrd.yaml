@@ -50,6 +50,7 @@ OSRD:
     osrd-design: push
     osrd-ui: push
     osrd-website: push
+    osrd-images: push
     # GitHub Team Management
     openrail-org-config: push
     # DNS Records
@@ -69,6 +70,7 @@ OSRD-Admins:
     osrd-design: admin
     osrd-ui: admin
     osrd-website: admin
+    osrd-images: admin
 
 OSRD-Maintainers:
   parent: OSRD
@@ -88,6 +90,7 @@ OSRD-DevOps:
     osrd-design: admin
     osrd-ui: admin
     osrd-website: admin
+    osrd-images: admin
 
 OSRD-Core:
   parent: OSRD-Maintainers
