@@ -1,0 +1,10 @@
+RCM-DX:
+  description: The team behind the RCM-DX project
+  member:
+    - Jean-FredericBonjour
+    - schalbts
+    - tongpu
+  repos:
+    rcm-dx: admin
+    # GitHub Team Management
+    openrail-org-config: push
