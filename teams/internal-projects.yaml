@@ -1,0 +1,41 @@
+# ------------------------------------------------------------------------------
+# Administrative OpenRail projects
+# ------------------------------------------------------------------------------
+Administrative Projects:
+  description: Maintainers of repos used for managing the technical infrastructure of the OpenRail Association
+
+GitHub Organization Manager:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/github-org-manager
+  # Sync with https://github.com/OpenRailAssociation/github-org-manager/blob/main/MAINTAINERS.md
+  member:
+    - flomonster
+    - mxmehl
+  repos:
+    github-org-manager: maintain
+
+Compliance Assistant:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/compliance-assistant
+  # Sync with https://github.com/OpenRailAssociation/compliance-assistant/blob/main/MAINTAINERS.md
+  member:
+    - mxmehl
+  repos:
+    compliance-assistant: maintain
+
+OpenRail GitHub Organization Config:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/openrail-org-config
+  member:
+    - cornelius
+    - mxmehl
+  repos:
+    openrail-org-config: maintain
+
+OpenRail DNS Records:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/openrail-dns
+  member:
+    - mxmehl
+  repos:
+    openrail-dns: maintain
