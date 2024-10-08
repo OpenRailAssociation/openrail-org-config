@@ -2,6 +2,7 @@ DAC Migration DSS:
   description: The team behind the DAC Migration DSS project
   member:
     - frederik-db
+    - christian-2910
   repos:
     dac-migration-dss: admin
     # GitHub Team Management
