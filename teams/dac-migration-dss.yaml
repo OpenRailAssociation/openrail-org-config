@@ -1,0 +1,8 @@
+DAC Migration DSS:
+  description: The team behind the DAC Migration DSS project
+  member:
+    - frederik-db
+  repos:
+    dac-migration-dss: admin
+    # GitHub Team Management
+    openrail-org-config: push
