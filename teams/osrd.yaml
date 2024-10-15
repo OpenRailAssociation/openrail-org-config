@@ -115,6 +115,7 @@ OSRD-Front:
     - SharglutDev
     - clarani
     - kmer2016
+    - emersion
   repos:
     osrd-ui: maintain
 
