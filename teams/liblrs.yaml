@@ -1,0 +1,9 @@
+liblrs:
+  description: A library to work with Linear Referencing Systems and geographical data 
+  member:
+    - tristramg
+    - flomonster
+  repos:
+    liblrs: admin
+    # GitHub Team Management
+    openrail-org-config: push
