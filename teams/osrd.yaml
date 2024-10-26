@@ -57,6 +57,7 @@ OSRD:
     openrail-org-config: push
     # DNS Records
     openrail-dns: push
+    liblrs: push
 
 OSRD-Admins:
   parent: OSRD
