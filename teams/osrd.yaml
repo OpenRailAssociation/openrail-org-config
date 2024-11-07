@@ -119,6 +119,12 @@ OSRD-Front:
   repos:
     osrd-ui: maintain
 
+OSRD-E2E-Tests:
+  parent: OSRD-Maintainers
+  maintainer:
+    - Maymanaf
+    - Yohh
+
 OSRD-Tests:
   parent: OSRD-Maintainers
   maintainer:
