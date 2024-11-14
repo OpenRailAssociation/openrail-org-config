@@ -11,16 +11,21 @@ OSRD:
     - loic-hamelin
   member:
     - Akctarus
+    - Arthur-Lefebvre
     - Caracol3
     - Castavo
     - ConstanceDragibus
+    - EthanPERRUZZA
     - JulesPeignier
     - Maymanaf
+    - Melissa266
     - Morgane-SJK
     - RomainValls
     - SarahBellaha
+    - Sh099078
     - SharglutDev
     - SimonPierreED
+    - Synar
     - Tristramg
     - Uriel-Sautron
     - Wadjetz
@@ -30,6 +35,7 @@ OSRD:
     - bougue-pe
     - cassandrafestoc
     - celine-sncf
+    - elise-chin
     - emersion
     - estia-m
     - hamz2a
@@ -40,11 +46,6 @@ OSRD:
     - sim51
     - theocrsb
     - thibautsailly
-    - Sh099078
-    - elise-chin
-    - EthanPERRUZZA
-    - Synar
-    - Arthur-Lefebvre
   repos:
     osrd: push
     osrd-chart: push
