@@ -26,5 +26,5 @@ jobs:
       - name: Configure application, add login credentials
         run: sed -i "s|__GITHUB_TOKEN__|${{ secrets.GTHB_TOKEN }}|" app.yaml
       - name: Synchronise settings with github-org-manager
-        if: github.ref == 'refs/heads/main'
-        run: gh-org-mgr sync -c .
+        # if: github.ref == 'refs/heads/main'
+        run: gh-org-mgr sync -c . --debug
