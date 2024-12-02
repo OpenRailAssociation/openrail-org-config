@@ -4,4 +4,8 @@
 
 # Personal Oauth access token with required scopes
 # The current token, stored as repository secret, is owned by @mxmehl and will expire on 2025-05-02
-github_token: __GITHUB_TOKEN__
+# github_token:
+
+# GitHub App (if this is set, the personal access token (github_token) will be ignored)
+github_app_id: 1075380
+github_app_private_key: # set as environment variable from secrets
