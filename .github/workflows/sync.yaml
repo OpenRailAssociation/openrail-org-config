@@ -22,9 +22,17 @@ jobs:
         run: pip install github-org-manager
       - name: Display information about github-org-manager
         run: gh-org-mgr --version
+      # Make a dry run in pull requests
+      - name: Synchronise settings with github-org-manager (pull request, dry)
+        if: github.event_name == 'pull_request'
+        run: gh-org-mgr sync -c . --dry
+        # Get app private key from secrets, set as environment variable
+        env:
+          GITHUB_APP_PRIVATE_KEY: ${{ secrets.GTHB_APP_PRIVATE_KEY }}
       # Only effectively sync on main branch
-      - name: Configure application, add login credentials
-        run: sed -i "s|__GITHUB_TOKEN__|${{ secrets.GTHB_TOKEN }}|" app.yaml
-      - name: Synchronise settings with github-org-manager
+      - name: Synchronise settings with github-org-manager (main branch, prod)
         if: github.ref == 'refs/heads/main'
         run: gh-org-mgr sync -c .
+        # Get app private key from secrets, set as environment variable
+        env:
+          GITHUB_APP_PRIVATE_KEY: ${{ secrets.GTHB_APP_PRIVATE_KEY }}
