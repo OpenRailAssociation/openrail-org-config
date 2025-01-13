@@ -39,3 +39,12 @@ OpenRail DNS Records:
     - mxmehl
   repos:
     openrail-dns: maintain
+
+Annual Report:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/annual-report
+  member:
+    - cornelius
+    - Keller-Peter
+  repos:
+    annual-report: maintain
