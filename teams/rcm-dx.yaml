@@ -6,5 +6,6 @@ RCM-DX:
     - tongpu
   repos:
     rcm-dx: admin
+    rcm-dx-examples: admin
     # GitHub Team Management
     openrail-org-config: push
