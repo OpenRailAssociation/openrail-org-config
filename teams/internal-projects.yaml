@@ -43,8 +43,14 @@ OpenRail DNS Records:
 Annual Report:
   parent: Administrative Projects
   description: Maintainers of https://github.com/OpenRailAssociation/annual-report
-  member:
+  maintainer:
     - cornelius
     - Keller-Peter
+  member:
+    - aiAdrian # NGE
+    - flomonster # OSRD
+    - frederik-db # DAC-DSS
+    - schalbts # RCM
+    - Tristramg # liblrs
   repos:
     annual-report: maintain
