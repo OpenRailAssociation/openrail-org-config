@@ -14,6 +14,7 @@ Technical Committee:
     - Tristramg # liblrs
   repos:
     technical-committee: push
+    annual-report: push
 
 Technical Committee Maintainers:
   parent: Technical Committee
