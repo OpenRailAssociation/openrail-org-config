@@ -45,6 +45,7 @@ OSRD:
     - sim51
     - theocrsb
     - thibautsailly
+    - victorlenel
   repos:
     osrd: push
     osrd-chart: push
