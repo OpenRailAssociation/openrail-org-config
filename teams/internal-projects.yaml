@@ -16,12 +16,13 @@ GitHub Organization Manager:
 
 Compliance Assistant:
   parent: Administrative Projects
-  description: Maintainers of https://github.com/OpenRailAssociation/compliance-assistant
+  description: Maintainers of https://github.com/OpenRailAssociation/compliance-assistant and related repos
   # Sync with https://github.com/OpenRailAssociation/compliance-assistant/blob/main/MAINTAINERS.md
   member:
     - mxmehl
   repos:
     compliance-assistant: maintain
+    purl-tools: maintain
 
 OpenRail GitHub Organization Config:
   parent: Administrative Projects
@@ -39,6 +40,15 @@ OpenRail DNS Records:
     - mxmehl
   repos:
     openrail-dns: maintain
+
+Authentik User Manager:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/authentik-user-manager
+  member:
+    - mxmehl
+  repos:
+    authentik-user-manager: maintain
+    openrail-users: maintain
 
 Annual Report:
   parent: Administrative Projects
