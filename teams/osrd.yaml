@@ -46,6 +46,7 @@ OSRD:
     - theocrsb
     - thibautsailly
     - victorlenel
+    - SarrahElm
   repos:
     osrd: push
     osrd-chart: push
