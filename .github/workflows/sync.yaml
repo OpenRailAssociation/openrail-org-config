@@ -17,7 +17,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.13"
       - name: Install github-org-manager
         run: pip install github-org-manager
       - name: Display information about github-org-manager
