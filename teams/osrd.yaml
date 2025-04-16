@@ -5,15 +5,15 @@ OSRD:
   description: Members of the OSRD project
   maintainer:
     - ElysaSrc
-    - bloussou
     - clarani
     - flomonster
     - loic-hamelin
+    - Castavo
+    - celine-sncf
   member:
     - Akctarus
     - Arthur-Lefebvre
     - Caracol3
-    - Castavo
     - ConstanceDragibus
     - JulesPeignier
     - Maymanaf
@@ -33,7 +33,6 @@ OSRD:
     - achrafmohye
     - anisometropie
     - bougue-pe
-    - celine-sncf
     - elise-chin
     - emersion
     - estia-m
@@ -66,8 +65,9 @@ OSRD-Admins:
     - loic-hamelin
     - flomonster
   member:
-    - bloussou
     - clarani
+    - Castavo
+    - celine-sncf
   repos:
     osrd: admin
     osrd-chart: admin
@@ -86,7 +86,6 @@ OSRD-DevOps:
   maintainer:
     - ElysaSrc
     - Khoyo
-    - bloussou
     - flomonster
     - younesschrifi
   repos:
@@ -133,7 +132,6 @@ OSRD-E2E-Tests:
 OSRD-Tests:
   parent: OSRD-Maintainers
   maintainer:
-    - bloussou
     - eckter
     - shenriotpro
 
