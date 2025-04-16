@@ -21,6 +21,7 @@ OSRD:
     - Morgane-SJK
     - RomainValls
     - SarahBellaha
+    - SarrahElm
     - Sh099078
     - SharglutDev
     - SimonPierreED
@@ -46,7 +47,7 @@ OSRD:
     - theocrsb
     - thibautsailly
     - victorlenel
-    - SarrahElm
+    - weblate
   repos:
     osrd: push
     osrd-chart: push
