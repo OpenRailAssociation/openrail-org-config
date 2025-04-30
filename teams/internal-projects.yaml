@@ -43,7 +43,7 @@ OpenRail DNS Records:
 
 Authentik User Manager:
   parent: Administrative Projects
-  description: Maintainers of https://github.com/OpenRailAssociation/authentik-user-manager
+  description: Maintainers of https://github.com/OpenRailAssociation/authentik-user-manager and related repos
   member:
     - mxmehl
   repos:
@@ -58,3 +58,13 @@ Annual Report:
     - Keller-Peter
   repos:
     annual-report: maintain
+
+Matrix Server:
+  parent: Administrative Projects
+  description: Maintainers of https://github.com/OpenRailAssociation/matrix-docker-ansible-deploy and related repos
+  member:
+    - ElysaSrc
+    - flomonster
+    - mxmehl
+  repos:
+    matrix-docker-ansible-deploy: maintain
