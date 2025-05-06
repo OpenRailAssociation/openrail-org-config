@@ -48,6 +48,7 @@ OSRD:
     - theocrsb
     - thibautsailly
     - victorlenel
+    - iLTmpas
     - weblate
   repos:
     osrd: push
