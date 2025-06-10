@@ -15,6 +15,7 @@ Technical Committee:
   repos:
     technical-committee: push
     annual-report: push
+    technical-committee-private: push
 
 Technical Committee Maintainers:
   parent: Technical Committee
@@ -29,3 +30,10 @@ Technical Committee Maintainers:
   repos:
     # GitHub Team Management
     openrail-org-config: push
+
+Technical Committee Retro Moderators:
+  description: The moderators of the Technical Committee retrospectives
+  member:
+    - MelanieWollnik
+  repos:
+    technical-committee-private: maintain
