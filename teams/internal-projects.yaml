@@ -68,11 +68,3 @@ Matrix Server:
     - mxmehl
   repos:
     matrix-docker-ansible-deploy: maintain
-
-Technical Committee Private:
-  parent: Technical Committee
-  description: Private group for retros in the TC
-  member:
-    - MelanieWollnik
-  repos:
-    technical-committee-private: maintain
