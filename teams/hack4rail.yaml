@@ -1,6 +1,8 @@
 Hack4Rail Organizers:
   description: Organizers of the Hack4Rail event
   member:
+    - cornelius
+    - mxmehl
     - OebbJan
   repos:
     openrail-users: push
