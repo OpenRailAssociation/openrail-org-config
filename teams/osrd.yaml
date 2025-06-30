@@ -4,7 +4,6 @@
 OSRD:
   description: Members of the OSRD project
   maintainer:
-    - ElysaSrc
     - clarani
     - flomonster
     - loic-hamelin
@@ -88,7 +87,6 @@ OSRD-Maintainers:
 OSRD-DevOps:
   parent: OSRD-Maintainers
   maintainer:
-    - ElysaSrc
     - Khoyo
     - flomonster
     - younesschrifi
