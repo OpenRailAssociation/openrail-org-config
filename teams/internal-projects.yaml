@@ -63,7 +63,6 @@ Matrix Server:
   parent: Administrative Projects
   description: Maintainers of https://github.com/OpenRailAssociation/matrix-docker-ansible-deploy and related repos
   member:
-    - ElysaSrc
     - flomonster
     - mxmehl
   repos:
