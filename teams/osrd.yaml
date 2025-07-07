@@ -130,6 +130,7 @@ OSRD-E2E-Tests:
   maintainer:
     - Maymanaf
     - Yohh
+    - Synar
 
 OSRD-Tests:
   parent: OSRD-Maintainers
