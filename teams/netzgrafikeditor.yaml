@@ -6,9 +6,9 @@ NGE:
   maintainer:
     - aiAdrian
     - tongpu
+    - louisgreiner
   member:
     - Caracol3
-    - louisgreiner
   repos:
     netzgrafik-editor-backend: push
     netzgrafik-editor-frontend: push
@@ -20,6 +20,7 @@ NGE-Admins:
   maintainer:
     - aiAdrian
     - tongpu
+    - louisgreiner
   repos:
     netzgrafik-editor-backend: admin
     netzgrafik-editor-frontend: admin
