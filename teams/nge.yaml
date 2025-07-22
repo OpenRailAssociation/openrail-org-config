@@ -1,0 +1,26 @@
+# ------------------------------------------------------------------------------
+# Netzgrafikeditor
+# ------------------------------------------------------------------------------
+NGE:
+  description: Members of the Netzgrafikeditor project
+  maintainer:
+    - aiAdrian
+    - louisgreiner
+    - tongpu
+  member:
+    - Caracol3
+  repos:
+    netzgrafik-editor-backend: push
+    netzgrafik-editor-frontend: push
+    # GitHub Team Management
+    openrail-org-config: push
+
+NGE-Admins:
+  parent: NGE
+  member:
+    - aiAdrian
+    - louisgreiner
+    - tongpu
+  repos:
+    netzgrafik-editor-backend: admin
+    netzgrafik-editor-frontend: admin
