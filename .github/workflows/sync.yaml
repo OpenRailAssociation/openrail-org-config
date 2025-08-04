@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.13"
       - name: Install github-org-manager
-        run: pip install github-org-manager
+        run: pip install github-org-manager "pygithub==2.6.1" 
       - name: Display information about github-org-manager
         run: gh-org-mgr --version
       # Make a dry run in pull requests
