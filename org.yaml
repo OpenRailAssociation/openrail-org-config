@@ -7,7 +7,7 @@ org_name: OpenRailAssociation
 # List of owners of the GitHub organisation
 org_owners:
   - cornelius
-  - loic-hamelin
+  - flomonster
   - mxmehl
 
 # Default settings. Will be overridden if set in a team.
