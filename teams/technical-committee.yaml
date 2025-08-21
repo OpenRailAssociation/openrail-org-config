@@ -8,8 +8,12 @@ Technical Committee:
   description: The Technical Committee of the OpenRail Association
   member:
     - aiAdrian # NGE
+    - cornelius # appointed by BoD
     - flomonster # OSRD
     - frederik-db # DAC-DSS
+    - Keller-Peter # appointed by BoD
+    - loic-hamelin # appointed by BoD
+    - mxmehl # permanent guest, OpenRail Team
     - schalbts # RCM
     - Tristramg # liblrs
   repos:
@@ -21,12 +25,12 @@ Technical Committee Maintainers:
   parent: Technical Committee
   # The maintainers of the TC repo:
   # https://github.com/OpenRailAssociation/technical-committee/blob/main/MAINTAINERS.md
-  description: The maintainers of OpenRail Association's Technical Committee
+  description: The maintainers of the Technical Committee repository
   member:
-    - cornelius # appointed
-    - Keller-Peter # appointed
-    - loic-hamelin # appointed
-    - mxmehl # permanent guest, OpenRail Team
+    - cornelius
+    - Keller-Peter
+    - loic-hamelin
+    - mxmehl
   repos:
     # GitHub Team Management
     openrail-org-config: push
