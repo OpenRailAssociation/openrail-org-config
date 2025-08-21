@@ -9,6 +9,7 @@ NGE:
     - tongpu
   member:
     - Caracol3
+    - emersion
   repos:
     netzgrafik-editor-backend: push
     netzgrafik-editor-frontend: push
