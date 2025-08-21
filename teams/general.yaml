@@ -28,3 +28,15 @@ Project Scouting Working Group:
     - SimonClavier
   repos:
     wg-project-scouting-private: push
+
+Event Organization Team:
+  description: The members of the team organizing events
+  member:
+    - celine-sncf
+    - ConstanceDragibus
+    - cornelius
+    - loic-hamelin
+    - schalbts
+  repos:
+    event-organization-private: push
+    
