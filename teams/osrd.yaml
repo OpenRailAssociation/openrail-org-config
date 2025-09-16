@@ -38,7 +38,6 @@ OSRD:
     - elise-chin
     - emersion
     - estia-m
-    - gaetan-osrd
     - hamz2a
     - hhirtz
     - iLTmpas
@@ -92,6 +91,7 @@ OSRD-DevOps:
   maintainer:
     - Khoyo
     - flomonster
+    - gaetan-osrd
     - younesschrifi
   repos:
     osrd: admin
