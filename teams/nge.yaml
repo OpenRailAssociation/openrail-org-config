@@ -10,6 +10,17 @@ NGE:
   member:
     - Caracol3
     - emersion
+    - clarani
+    - Math-R
+    - SharglutDev
+    - kmer2016
+    - jacomyal
+    - anisometropie
+    - Synar
+    - Uriel-Sautron
+    - Yohh
+    - SarahBellaha
+    - maelysLeratRosso
   repos:
     netzgrafik-editor-backend: push
     netzgrafik-editor-frontend: push
