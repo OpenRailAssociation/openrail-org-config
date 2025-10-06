@@ -25,7 +25,7 @@ jobs:
       # Make a dry run in pull requests
       - name: Synchronise settings with github-org-manager (pull request, dry)
         if: github.event_name == 'pull_request'
-        run: gh-org-mgr sync -c . --dry
+        run: gh-org-mgr sync -c . --dry -v
         # Get app private key from secrets, set as environment variable
         env:
           GITHUB_APP_PRIVATE_KEY: ${{ secrets.GTHB_APP_PRIVATE_KEY }}
