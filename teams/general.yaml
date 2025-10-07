@@ -17,18 +17,6 @@ OpenRail Team:
     openrail-org-config: push
     openrail-team-private: push
 
-Project Scouting Working Group:
-  description: The members of the Project Scouting Working Group
-  member:
-    - breded
-    - cornelius
-    - loic-hamelin
-    - mxmehl
-    - Keller-Peter
-    - SimonClavier
-  repos:
-    wg-project-scouting-private: push
-
 Event Organization Team:
   description: The members of the team organizing events
   member:
@@ -42,4 +30,3 @@ Event Organization Team:
     - LaureenFrederic
   repos:
     event-organization-private: push
-    

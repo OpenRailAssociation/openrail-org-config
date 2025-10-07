@@ -1,8 +1,9 @@
 # ----
 *                     @OpenRailAssociation/Openrail-GitHub-Organization-Config
 /teams/dac-migration-dss.yaml      @openrailassociation/DAC-Migration-DSS
+/teams/liblrs.yaml      @openrailassociation/liblrs-admins
+/teams/nge.yaml      @openrailassociation/NGE-Admins
 /teams/osrd.yaml      @openrailassociation/OSRD-Admins
 /teams/rcm-dx.yaml      @openrailassociation/RCM-DX
 /teams/technical-committee.yaml      @openrailassociation/Technical-Committee-Maintainers
-/teams/liblrs.yaml      @openrailassociation/liblrs-admins
-/teams/nge.yaml      @openrailassociation/NGE-Admins
+/teams/wg-project-scouting.yaml      @openrailassociation/Project-Scouting-Working-Group-Maintainers
