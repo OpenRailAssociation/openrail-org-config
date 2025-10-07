@@ -1,0 +1,27 @@
+# ------------------------------------------------------------------------------
+# OpenRail Project Scouting Working Group
+# ------------------------------------------------------------------------------
+Project Scouting Working Group:
+  description: The members of the Project Scouting Working Group
+  member:
+    - breded
+    - cornelius
+    - Keller-Peter
+    - loic-hamelin
+    - mxmehl
+    - SimonClavier
+  repos:
+    wg-project-scouting: push
+    wg-project-scouting-private: push
+
+Project Scouting Working Group Maintainers:
+  parent: Project Scouting Working Group
+  # The maintainers of the PSWG repo:
+  # https://github.com/OpenRailAssociation/wg-project-scouting/blob/main/MAINTAINERS.md
+  description: The maintainers of the PSWG repository
+  member:
+    - cornelius
+    - Keller-Peter
+  repos:
+    # GitHub Team Management
+    openrail-org-config: push
