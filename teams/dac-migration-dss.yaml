@@ -1,9 +1,25 @@
 DAC Migration DSS:
-  description: The team behind the DAC Migration DSS project
+  description: The people behind the DAC Migration DSS projects
+  repos:
+    # GitHub Team Management
+    openrail-org-config: push
+
+DAC Migration DSS Maintainers:
+  description: The maintainers of the DAC Migration DSS project and its subprojects
+  parent: DAC Migration DSS
   member:
     - frederik-db
     - christian-2910
   repos:
     dac-migration-dss: admin
-    # GitHub Team Management
-    openrail-org-config: push
+    dac-migration-dss-popupsim: admin
+
+DAC Migration DSS PopUpSim:
+  description: PopUpSim subproject within DAC Migration DSS
+  parent: DAC Migration DSS
+  member:
+    - 36b498c8
+    - HHG-DB
+    - jhw-db
+  repos:
+    dac-migration-dss-popupsim: maintain
