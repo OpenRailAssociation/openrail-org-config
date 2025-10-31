@@ -19,7 +19,6 @@ OSRD:
     - LaureenFrederic
     - Maymanaf
     - Melissa266
-    - Morgane-SJK
     - RomainValls
     - SarahBellaha
     - SarrahElm
@@ -31,12 +30,10 @@ OSRD:
     - Wadjetz
     - Yohh
     - achrafmohye
-    - alexandrergj
     - anglnn
     - anisometropie
     - aschantraine
     - bougue-pe
-    - elise-chin
     - emersion
     - estia-m
     - hamz2a
@@ -52,7 +49,6 @@ OSRD:
     - sim51
     - theocrsb
     - thibautsailly
-    - victorlenel
     - weblate
   repos:
     osrd: push
@@ -141,4 +137,13 @@ OSRD-Tests:
   parent: OSRD-Maintainers
   maintainer:
     - eckter
+    - shenriotpro
+
+OSRD-Data:
+  parent: OSRD-Maintainers
+  maintainer:
+    - Castavo
+    - Khoyo
+    - Morgane-SJK
+    - elise-chin
     - shenriotpro
