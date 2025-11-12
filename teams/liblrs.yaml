@@ -15,5 +15,6 @@ liblrs-admins:
   maintainer:
      - tristramg
      - flomonster
+     - Synar
   repos:
     liblrs: admin
