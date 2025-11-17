@@ -49,6 +49,7 @@ OSRD:
     - sim51
     - theocrsb
     - thibautsailly
+    - Pivouane
     - weblate
   repos:
     osrd: push
