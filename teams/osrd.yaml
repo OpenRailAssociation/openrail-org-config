@@ -9,6 +9,7 @@ OSRD:
     - loic-hamelin
     - Castavo
     - celine-sncf
+    - SharglutDev
   member:
     - Agathe-The-Feeling
     - Akctarus
@@ -30,7 +31,6 @@ OSRD:
     - Wadjetz
     - Yohh
     - achrafmohye
-    - anglnn
     - anisometropie
     - aschantraine
     - bougue-pe
@@ -38,7 +38,6 @@ OSRD:
     - estia-m
     - hamz2a
     - hhirtz
-    - iLTmpas
     - jacomyal
     - kmer2016
     - louiseligonniere
@@ -46,9 +45,12 @@ OSRD:
     - maelysLeratRosso
     - MartinBourbier
     - penelol
+    - ppitou
     - sim51
     - theocrsb
     - thibautsailly
+    - gaetan-osrd
+    - Pivouane
     - weblate
   repos:
     osrd: push
@@ -69,6 +71,7 @@ OSRD-Admins:
     - flomonster
   member:
     - clarani
+    - SharglutDev
     - Castavo
     - celine-sncf
   repos:

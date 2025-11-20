@@ -4,7 +4,8 @@ liblrs:
     - shenriotpro
     - louisgreiner
     - Castavo
-    - JulesPeignier 
+    - JulesPeignier
+    - woshilapin
   repos:
     liblrs: push
     # GitHub Team Management
@@ -15,5 +16,6 @@ liblrs-admins:
   maintainer:
      - tristramg
      - flomonster
+     - Synar
   repos:
     liblrs: admin
