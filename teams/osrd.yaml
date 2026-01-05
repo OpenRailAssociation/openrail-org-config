@@ -51,6 +51,7 @@ OSRD:
     - thibautsailly
     - gaetan-osrd
     - Pivouane
+    - SaumonDesMers
     - weblate
   repos:
     osrd: push
