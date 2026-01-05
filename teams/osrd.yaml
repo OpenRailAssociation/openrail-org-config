@@ -4,12 +4,12 @@
 OSRD:
   description: Members of the OSRD project
   maintainer:
+    - Castavo
+    - SharglutDev
+    - celine-sncf
     - clarani
     - flomonster
     - loic-hamelin
-    - Castavo
-    - celine-sncf
-    - SharglutDev
   member:
     - Agathe-The-Feeling
     - Akctarus
@@ -18,11 +18,14 @@ OSRD:
     - ConstanceDragibus
     - JulesPeignier
     - LaureenFrederic
+    - MartinBourbier
     - Maymanaf
     - Melissa266
+    - Pivouane
     - RomainValls
     - SarahBellaha
     - SarrahElm
+    - SaumonDesMers
     - Sh099078
     - SharglutDev
     - Synar
@@ -36,6 +39,7 @@ OSRD:
     - bougue-pe
     - emersion
     - estia-m
+    - gaetan-osrd
     - hamz2a
     - hhirtz
     - jacomyal
@@ -43,15 +47,11 @@ OSRD:
     - louiseligonniere
     - louisgreiner
     - maelysLeratRosso
-    - MartinBourbier
     - penelol
     - ppitou
     - sim51
     - theocrsb
     - thibautsailly
-    - gaetan-osrd
-    - Pivouane
-    - SaumonDesMers
     - weblate
   repos:
     osrd: push
@@ -68,13 +68,13 @@ OSRD:
 OSRD-Admins:
   parent: OSRD
   maintainer:
-    - loic-hamelin
     - flomonster
+    - loic-hamelin
   member:
-    - clarani
-    - SharglutDev
     - Castavo
+    - SharglutDev
     - celine-sncf
+    - clarani
   repos:
     osrd: admin
     osrd-chart: admin
@@ -108,8 +108,8 @@ OSRD-Core:
   maintainer:
     - Erashin
     - Khoyo
-    - eckter
     - bougue-pe
+    - eckter
 
 OSRD-Editoast:
   parent: OSRD-Maintainers
@@ -125,8 +125,8 @@ OSRD-Front:
     - Math-R
     - SharglutDev
     - clarani
-    - kmer2016
     - emersion
+    - kmer2016
   repos:
     osrd-ui: maintain
 
@@ -134,8 +134,8 @@ OSRD-E2E-Tests:
   parent: OSRD-Maintainers
   maintainer:
     - Maymanaf
-    - Yohh
     - Synar
+    - Yohh
 
 OSRD-Tests:
   parent: OSRD-Maintainers
