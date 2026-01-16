@@ -7,7 +7,6 @@ OSRD:
     - Castavo
     - SharglutDev
     - celine-sncf
-    - clarani
     - flomonster
     - loic-hamelin
   member:
@@ -74,7 +73,6 @@ OSRD-Admins:
     - Castavo
     - SharglutDev
     - celine-sncf
-    - clarani
   repos:
     osrd: admin
     osrd-chart: admin
@@ -124,7 +122,6 @@ OSRD-Front:
   maintainer:
     - Math-R
     - SharglutDev
-    - clarani
     - emersion
     - kmer2016
   repos:
