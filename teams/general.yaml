@@ -6,6 +6,7 @@ OpenRail Team:
   member:
     - benlammel
     - cornelius
+    - Erika645
     - Keller-Peter
     - loic-hamelin
     - melaniewollnik
@@ -14,9 +15,10 @@ OpenRail Team:
     - SimonClavier
     - vlasceanuic
   repos:
+    openrail-team-private: push
+    website: push
     # GitHub Team Management
     openrail-org-config: push
-    openrail-team-private: push
 
 Event Organization Team:
   description: The members of the team organizing events
