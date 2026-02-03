@@ -1,10 +1,12 @@
 Hack4Rail Organizers:
   description: Organizers of the Hack4Rail event
   member:
+    - biancafreysbb
     - cornelius
     - mxmehl
     - OebbJan
     - juliabln
+    - timetable2014
   repos:
     openrail-users: push
     hack4rail-website: maintain
