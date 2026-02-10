@@ -51,6 +51,7 @@ OSRD:
     - sim51
     - theocrsb
     - thibautsailly
+    - DucNg
     - weblate
   repos:
     osrd: push
