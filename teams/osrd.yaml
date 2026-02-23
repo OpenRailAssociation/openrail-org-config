@@ -48,6 +48,7 @@ OSRD:
     - theocrsb
     - thibautsailly
     - DucNg
+    - Signez
     - weblate
   repos:
     osrd: push
