@@ -1,0 +1,20 @@
+# ------------------------------------------------------------------------------
+# Ecosystem Developer Coordination Team
+# ------------------------------------------------------------------------------
+Ecosystem Developer Coordination Team:
+  description: The members of the Ecosystem Developer Coordination Team
+  member:
+    - benlammel
+    - cornelius
+  repos:
+    ecosystem-developer-coordination-team-private: push
+
+Ecosystem Developer Coordination Team Maintainers:
+  parent: Ecosystem Developer Coordination Team
+  description: The maintainers of the EDCT repository
+  member:
+    - benlammel
+    - cornelius
+  repos:
+    # GitHub Team Management
+    openrail-org-config: push
