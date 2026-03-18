@@ -132,12 +132,6 @@ OSRD-E2E-Tests:
     - Synar
     - Yohh
 
-OSRD-Tests:
-  parent: OSRD-Maintainers
-  maintainer:
-    - eckter
-    - shenriotpro
-
 OSRD-Data:
   parent: OSRD-Maintainers
   maintainer:
