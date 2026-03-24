@@ -20,6 +20,9 @@ OpenRail Team:
     website: push
     # GitHub Team Management
     openrail-org-config: push
+    # Boards of the working groups
+    ecosystem-developer-coordination-team-private: push
+    wg-project-scouting-private: push
 
 Event Organization Team:
   description: The members of the team organizing events
