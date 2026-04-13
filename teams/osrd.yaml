@@ -15,16 +15,19 @@ OSRD:
     - Arthur-Lefebvre
     - Caracol3
     - ConstanceDragibus
+    - DucNg
     - JulesPeignier
     - MartinBourbier
     - Maymanaf
     - Melissa266
     - Pivouane
+    - QuentinHayK
     - RomainValls
     - SarahBellaha
     - SaumonDesMers
     - Sh099078
     - SharglutDev
+    - Signez
     - Synar
     - Tristramg
     - Uriel-Sautron
@@ -47,8 +50,6 @@ OSRD:
     - sim51
     - theocrsb
     - thibautsailly
-    - DucNg
-    - Signez
     - weblate
   repos:
     osrd: push
@@ -122,6 +123,7 @@ OSRD-Front:
     - SharglutDev
     - emersion
     - kmer2016
+    - SarahBellaha
   repos:
     osrd-ui: maintain
 

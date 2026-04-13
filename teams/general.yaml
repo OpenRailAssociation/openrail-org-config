@@ -7,7 +7,6 @@ OpenRail Team:
     - AlexandraHaenig
     - benlammel
     - cornelius
-    - Erika645
     - Keller-Peter
     - loic-hamelin
     - melaniewollnik
@@ -20,17 +19,6 @@ OpenRail Team:
     website: push
     # GitHub Team Management
     openrail-org-config: push
-
-Event Organization Team:
-  description: The members of the team organizing events
-  member:
-    - celine-sncf
-    - ConstanceDragibus
-    - cornelius
-    - loic-hamelin
-    - schalbts
-    - MelanieWollnik
-    - emersion
-    - LaureenFrederic
-  repos:
-    event-organization-private: push
+    # Boards of the working groups
+    ecosystem-developer-coordination-team-private: push
+    wg-project-scouting-private: push
