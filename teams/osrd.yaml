@@ -62,6 +62,8 @@ OSRD:
     openrail-org-config: push
     # DNS Records
     openrail-dns: push
+    # NGE frontend, because OSRD members are regular contributors
+    netzgrafik-editor-frontend: push
 
 OSRD-Admins:
   parent: OSRD
