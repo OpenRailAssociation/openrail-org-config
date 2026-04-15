@@ -7,6 +7,7 @@ NGE:
     - aiAdrian
     - louisgreiner
     - tongpu
+    - emersion
   repos:
     netzgrafik-editor-backend: push
     netzgrafik-editor-frontend: push
@@ -19,6 +20,7 @@ NGE-Admins:
     - aiAdrian
     - louisgreiner
     - tongpu
+    - emersion
   repos:
     netzgrafik-editor-backend: admin
     netzgrafik-editor-frontend: admin
