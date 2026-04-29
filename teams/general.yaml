@@ -17,6 +17,7 @@ OpenRail Team:
     - vlasceanuic
   repos:
     openrail-team-private: push
+    openrail-contacts-private: push
     website: push
     # GitHub Team Management
     openrail-org-config: push
