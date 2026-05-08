@@ -67,3 +67,15 @@ Matrix Server:
     - mxmehl
   repos:
     matrix-docker-ansible-deploy: maintain
+
+Project Funnel Maintainers:
+  parent: Administrative Projects
+  descriptions: Maintainers of the board for project funnel and contacts
+  member:
+    - AlexandraHaenig
+    - benlammel
+    - cornelius
+  repos:
+    wg-project-scouting-private: maintain
+    openrail-contacts-private: maintain
+    
