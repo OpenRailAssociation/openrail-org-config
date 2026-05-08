@@ -70,7 +70,7 @@ Matrix Server:
 
 Project Funnel Maintainers:
   parent: Administrative Projects
-  descriptions: Maintainers of the board for project funnel and contacts
+  description: Maintainers of the board for project funnel and contacts
   member:
     - AlexandraHaenig
     - benlammel
