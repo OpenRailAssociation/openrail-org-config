@@ -149,6 +149,7 @@ OSRD-Data:
 
 OSRD-NixTools:
   description: OSRD Nix tools maintainers
+  parent: OSRD-Maintainers
   maintainer:
     - woshilapin
     - flomonster
