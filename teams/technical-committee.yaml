@@ -20,6 +20,9 @@ Technical Committee:
     technical-committee: push
     annual-report: push
     technical-committee-private: push
+    # Metrics report
+    openrail-metrics: push
+    committer-mapping: push
 
 Technical Committee Maintainers:
   parent: Technical Committee
