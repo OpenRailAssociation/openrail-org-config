@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------------
 NGE:
   description: Members of the Netzgrafikeditor project
-  members:
+  member:
     - nerdinand
   maintainer:
     - aiAdrian
