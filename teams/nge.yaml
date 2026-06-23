@@ -1,8 +1,8 @@
 # ------------------------------------------------------------------------------
-# Netzgrafikeditor
+# Netzgrafik-Editor
 # ------------------------------------------------------------------------------
 NGE:
-  description: Members of the Netzgrafikeditor project
+  description: Members of the Netzgrafik-Editor project
   member:
     - nerdinand
   maintainer:
