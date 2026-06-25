@@ -1,8 +1,5 @@
-# ------------------------------------------------------------------------------
-# OpenRail Project Scouting Working Group
-# ------------------------------------------------------------------------------
 Project Scouting Working Group:
-  description: The members of the Project Scouting Working Group
+  description: Members of the Project Scouting Working Group
   member:
     - hamzaourabah
     - abdelaziz1997
@@ -22,7 +19,7 @@ Project Scouting Working Group Maintainers:
   parent: Project Scouting Working Group
   # The maintainers of the PSWG repo:
   # https://github.com/OpenRailAssociation/wg-project-scouting/blob/main/MAINTAINERS.md
-  description: The maintainers of the PSWG repository
+  description: Maintainers of the Project Scouting Working Group repository
   member:
     - cornelius
     - Keller-Peter

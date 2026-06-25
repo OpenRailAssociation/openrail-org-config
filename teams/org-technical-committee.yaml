@@ -1,11 +1,7 @@
-# ------------------------------------------------------------------------------
-# OpenRail Technical Committee
-# ------------------------------------------------------------------------------
 Technical Committee:
-  # The members of the TC:
   # https://github.com/OpenRailAssociation/technical-committee/blob/main/README.md#members
   # The maintainers (below) will automatically become members of this team as well
-  description: The Technical Committee of the OpenRail Association
+  description: Members of the Technical Committee
   member:
     - aiAdrian # NGE
     - cornelius # appointed by BoD
@@ -28,7 +24,7 @@ Technical Committee Maintainers:
   parent: Technical Committee
   # The maintainers of the TC repo:
   # https://github.com/OpenRailAssociation/technical-committee/blob/main/MAINTAINERS.md
-  description: The maintainers of the Technical Committee repository
+  description: Maintainers of the Technical Committee repository
   member:
     - cornelius
     - Keller-Peter
@@ -39,7 +35,7 @@ Technical Committee Maintainers:
     openrail-org-config: push
 
 Technical Committee Retro Moderators:
-  description: The moderators of the Technical Committee retrospectives
+  description: Moderators of the Technical Committee retrospectives
   member:
     - MelanieWollnik
   repos:

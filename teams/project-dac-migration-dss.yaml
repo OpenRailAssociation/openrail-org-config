@@ -1,11 +1,11 @@
 DAC Migration DSS:
-  description: The people behind the DAC Migration DSS projects
+  description: Members of the DAC Migration DSS project
   repos:
     # GitHub Team Management
     openrail-org-config: push
 
 DAC Migration DSS Maintainers:
-  description: The maintainers of the DAC Migration DSS project and its subprojects
+  description: Maintainers of the DAC Migration DSS project
   parent: DAC Migration DSS
   member:
     - frederik-db

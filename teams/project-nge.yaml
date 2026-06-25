@@ -1,8 +1,5 @@
-# ------------------------------------------------------------------------------
-# Netzgrafik-Editor
-# ------------------------------------------------------------------------------
 NGE:
-  description: Members of the Netzgrafik-Editor project
+  description: Members of the NGE project
   member:
     - nerdinand
     - ErRijcken
@@ -21,7 +18,8 @@ NGE:
     # GitHub Team Management
     openrail-org-config: push
 
-NGE-Admins:
+NGE Maintainers:
+  description: Maintainers of the NGE project
   parent: NGE
   member:
     - aiAdrian

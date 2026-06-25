@@ -1,10 +1,10 @@
 # ----
 *                     @OpenRailAssociation/Openrail-GitHub-Organization-Config
-/teams/dac-migration-dss.yaml      @openrailassociation/DAC-Migration-DSS-Maintainers
-/teams/liblrs.yaml      @openrailassociation/liblrs-admins
-/teams/nge.yaml      @openrailassociation/NGE-Admins
-/teams/osrd.yaml      @openrailassociation/OSRD-Admins
-/teams/rcm-dx.yaml      @openrailassociation/RCM-DX
-/teams/technical-committee.yaml      @openrailassociation/Technical-Committee-Maintainers
+/teams/project-dac-migration-dss.yaml      @openrailassociation/DAC-Migration-DSS-Maintainers
+/teams/project-liblrs.yaml      @openrailassociation/Liblrs-Maintainers
+/teams/project-nge.yaml      @openrailassociation/NGE-Maintainers
+/teams/project-osrd.yaml      @openrailassociation/OSRD-Admins
+/teams/project-rcm-oss.yaml      @openrailassociation/RCM-OSS
+/teams/org-technical-committee.yaml      @openrailassociation/Technical-Committee-Maintainers
 /teams/wg-project-scouting.yaml      @openrailassociation/Project-Scouting-Working-Group-Maintainers
-/teams/hack4rail.yaml     @openrailassociation/Hack4Rail-Organizers
+/teams/external-hack4rail.yaml     @openrailassociation/Hack4Rail-Organizers
