@@ -1,0 +1,6 @@
+Meetup Organizers:
+  description: Organizers of the OpenRail Meetup
+  member:
+    - AlexandraHaenig
+  repos:
+    meetup: push
