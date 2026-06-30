@@ -1,8 +1,5 @@
-# ------------------------------------------------------------------------------
-# Ecosystem Developer Coordination Team
-# ------------------------------------------------------------------------------
 Ecosystem Developer Coordination Team:
-  description: The members of the Ecosystem Developer Coordination Team
+  description: Members of the Ecosystem Developer Coordination Team
   member:
     - benlammel
     - cornelius
@@ -11,7 +8,7 @@ Ecosystem Developer Coordination Team:
 
 Ecosystem Developer Coordination Team Maintainers:
   parent: Ecosystem Developer Coordination Team
-  description: The maintainers of the EDCT repository
+  description: Maintainers of the Ecosystem Developer Coordination Team repository
   member:
     - benlammel
     - cornelius

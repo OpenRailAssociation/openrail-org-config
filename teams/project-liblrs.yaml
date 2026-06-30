@@ -1,5 +1,5 @@
-liblrs:
-  description: Members of the liblrs project 
+Liblrs:
+  description: Members of the Liblrs project
   member:
     - shenriotpro
     - louisgreiner
@@ -11,8 +11,9 @@ liblrs:
     # GitHub Team Management
     openrail-org-config: push
 
-liblrs-admins:
-  parent: liblrs
+Liblrs Maintainers:
+  description: Maintainers of the Liblrs project
+  parent: Liblrs
   maintainer:
      - tristramg
      - flomonster

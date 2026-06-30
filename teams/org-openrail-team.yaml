@@ -1,8 +1,5 @@
-# ------------------------------------------------------------------------------
-# General OpenRail teams
-# ------------------------------------------------------------------------------
 OpenRail Team:
-  description: The members of the OpenRail Team
+  description: Members of the OpenRail Team
   member:
     - AlexandraHaenig
     - benlammel
