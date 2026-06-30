@@ -1,0 +1,9 @@
+AMS:
+  description: Members of the AMS project
+  member:
+    - loic-hamelin
+    - SimonClavier
+  repos:
+    ams: push
+    # GitHub Team Management
+    openrail-org-config: push
