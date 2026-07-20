@@ -1,5 +1,7 @@
 AMS:
   description: Members of the AMS project
+  maintainer:
+    - jtatibouet
   member:
     - loic-hamelin
     - SimonClavier
