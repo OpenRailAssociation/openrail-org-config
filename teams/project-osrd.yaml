@@ -18,7 +18,6 @@ OSRD:
     - ConstanceDragibus
     - DucNg
     - JulesPeignier
-    - mcho75
     - MartinBourbier
     - Maymanaf
     - Melissa-LASSAL
@@ -31,6 +30,7 @@ OSRD:
     - SharglutDev
     - Signez
     - Synar
+    - Tguisnet
     - Tristramg
     - Uriel-Sautron
     - Wadjetz
@@ -47,6 +47,7 @@ OSRD:
     - kmer2016
     - louisgreiner
     - maelysLeratRosso
+    - mcho75
     - neigeantre
     - penelol
     - ppitou
@@ -116,7 +117,6 @@ OSRD-Core:
 OSRD-Editoast:
   parent: OSRD-Maintainers
   maintainer:
-    - Tguisnet
     - flomonster
     - leovalais
     - woshilapin
