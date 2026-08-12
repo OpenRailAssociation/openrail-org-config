@@ -1,5 +1,7 @@
 Administrative Projects:
   description: Maintainers of repos used for managing the technical infrastructure of the OpenRail Association
+  member:
+    - openrail-tech
 
 GitHub Organization Manager:
   parent: Administrative Projects
@@ -75,4 +77,3 @@ Project Funnel Maintainers:
   repos:
     wg-project-scouting-private: maintain
     openrail-contacts-private: maintain
-    
