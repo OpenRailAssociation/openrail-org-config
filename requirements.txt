@@ -1,1 +1,1 @@
-github-org-manager==0.7.11
+github-org-manager==0.7.12
