@@ -20,6 +20,13 @@ DAC Migration DSS PopUpSim:
   member:
     - 36b498c8
     - HHG-DB
-    - jhw-db
   repos:
     dac-migration-dss-popupsim: maintain
+
+DAC Migration DSS PopUpSim Maintainers:
+  description: Maintainers of PopUpSim
+  parent: DAC Migration DSS
+  member:
+    - jhw-db
+  repos:
+    dac-migration-dss-popupsim: admin
