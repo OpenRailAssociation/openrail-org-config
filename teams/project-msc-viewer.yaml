@@ -1,0 +1,8 @@
+MscViewer:
+  description: Members of the MscViewer project
+  maintainer:
+    - artfh
+  repos:
+    msc-viewer: admin
+    # GitHub Team Management
+    openrail-org-config: push
