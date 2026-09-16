@@ -69,7 +69,6 @@ Project Funnel Maintainers:
   parent: Administrative Projects
   description: Maintainers of the board for project funnel and contacts
   member:
-    - AlexandraHaenig
     - benlammel
     - cornelius
   repos:
