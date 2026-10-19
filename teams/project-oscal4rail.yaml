@@ -1,5 +1,20 @@
 OSCAL4Rail:
-  description: Administrators of the OSCAL4Rail project
+  description: Members and contributors of the OSCAL4Rail project
+  maintainer:
+    - JensGrote
+    - simon-frei
+  member:
+    - JensGrote
+    - simon-frei
+  repos:
+    oscal4rail: push
+
+OSCAL4Rail Maintainers:
+  description: Maintainers of the OSCAL4Rail project
+  parent: OSCAL4Rail
+  maintainer:
+    - JensGrote
+    - simon-frei
   member:
     - JensGrote
     - simon-frei
@@ -7,8 +22,3 @@ OSCAL4Rail:
     oscal4rail: admin
     # GitHub Team Management
     openrail-org-config: push
-
-OSCAL4Rail Developers:
-  description: Developers and contributors of the OSCAL4Rail project
-  repos:
-    oscal4rail: push
