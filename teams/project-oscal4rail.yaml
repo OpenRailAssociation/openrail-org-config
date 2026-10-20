@@ -1,8 +1,5 @@
 OSCAL4Rail:
-  description: Members and contributors of the OSCAL4Rail project
-  maintainer:
-    - JensGrote
-    - simon-frei
+  description: Members of the OSCAL4Rail project
   member:
     - JensGrote
     - simon-frei
@@ -12,9 +9,6 @@ OSCAL4Rail:
 OSCAL4Rail Maintainers:
   description: Maintainers of the OSCAL4Rail project
   parent: OSCAL4Rail
-  maintainer:
-    - JensGrote
-    - simon-frei
   member:
     - JensGrote
     - simon-frei
