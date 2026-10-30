@@ -3,6 +3,7 @@ OSCAL4Rail:
   member:
     - JensGrote
     - simon-frei
+    - florianhofmanndb
   repos:
     oscal4rail: push
 
