@@ -35,7 +35,6 @@ OSRD:
     - Uriel-Sautron
     - Wadjetz
     - Yohh
-    - aschantraine
     - bougue-pe
     - elleagn
     - emersion
@@ -117,6 +116,7 @@ OSRD-Core:
 OSRD-Editoast:
   parent: OSRD-Maintainers
   maintainer:
+    - aschantraine
     - flomonster
     - leovalais
     - woshilapin
