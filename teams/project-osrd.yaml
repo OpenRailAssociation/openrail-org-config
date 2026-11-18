@@ -10,8 +10,6 @@ OSRD:
     - flomonster
     - loic-hamelin
   member:
-    - 1eenaa
-    - Agathe-The-Feeling
     - Akctarus
     - Arthur-Lefebvre
     - Caracol3
@@ -25,7 +23,6 @@ OSRD:
     - Pivouane
     - RomainValls
     - SarahBellaha
-    - SaumonDesMers
     - Sh099078
     - SharglutDev
     - Signez
@@ -38,7 +35,6 @@ OSRD:
     - bougue-pe
     - elleagn
     - emersion
-    - estia-m
     - gaetan-osrd
     - hamz2a
     - hhirtz
@@ -46,7 +42,6 @@ OSRD:
     - kmer2016
     - louisgreiner
     - maelysLeratRosso
-    - mcho75
     - neigeantre
     - penelol
     - ppitou
@@ -143,7 +138,6 @@ OSRD-Data:
   parent: OSRD-Maintainers
   maintainer:
     - Castavo
-    - Khoyo
     - Morgane-SJK
     - elise-chin
     - shenriotpro
